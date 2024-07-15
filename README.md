@@ -13,7 +13,7 @@ print("Number of digits in the string:", count_digits)
 
 Alg Workbench #2
 
-my string = "Hi, how are you doing today?"
+mystring = "Hi, how are you doing today?"
 
 count_spaces = 0 
 
